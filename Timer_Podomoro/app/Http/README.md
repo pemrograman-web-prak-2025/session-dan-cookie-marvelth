@@ -1,0 +1,1 @@
+FILE SQL untuk database ada di FOLDER PUBLIC, sama kyk tugas 6 kemaren
